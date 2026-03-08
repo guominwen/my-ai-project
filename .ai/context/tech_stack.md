@@ -5,7 +5,9 @@
     - **框架**: [FastAPI](https://fastapi.tiangolo.com/)
     - **测试**: [pytest](https://docs.pytest.org/)
 - **前端 (Frontend)**: [Next.js](https://nextjs.org/) (TypeScript)
-- **数据库 (Database)**: [PostgreSQL](https://www.postgresql.org/)
+- **数据库 (Database)**: [MySQL](https://www.mysql.com/) (Version 8.0.45)
+    - **ID**: `root`
+    - **PW**: `root`
 
 ## 开发约束
 1. **API 开发**:
