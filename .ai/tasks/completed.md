@@ -89,3 +89,24 @@
 - `src/backend/main.py`
 - `src/backend/tests/test_dashboard.py`
 ---
+## [2026-03-08] 前端开发 (Frontend Development with Next.js)
+### 任务描述:
+实现基于 Next.js + TypeScript + Tailwind CSS 的任务管理系统前端界面，并与 FastAPI 后端完成联调。
+
+### 验收结果:
+- ✅ 初始化 `src/frontend` 项目结构。
+- ✅ 实现认证页面 (登录、注册) 与 JWT 存储。
+- ✅ 实现任务管理界面 (创建、更新状态、删除)。
+- ✅ 实现仪表盘界面 (实时任务统计)。
+- ✅ 创建 `启动说明.md` 提供完整项目启动流程。
+
+### 相关文件:
+- `src/frontend/src/app/page.tsx`
+- `src/frontend/src/app/login/page.tsx`
+- `src/frontend/src/app/register/page.tsx`
+- `src/frontend/src/app/tasks/page.tsx`
+- `src/frontend/src/app/dashboard/page.tsx`
+- `src/frontend/src/components/common/Navbar.tsx`
+- `src/frontend/src/lib/api.ts`
+- `启动说明.md`
+---
